@@ -1,17 +1,17 @@
 <div align="center">
   
  <div align="center" style="border-radius:100%;overflow: hidden;">
-    <img src="https://avatars.githubusercontent.com/u/282673524?s=400&u=76f4b4370d83173b1547003bd87e8b7b56500a5d&v=4" width="150" alt="avatar" style="border-radius:"50%";"/>
+    <img src="https://avatars.githubusercontent.com/u/282673524?s=400&u=76f4b4370d83173b1547003bd87e8b7b56500a5d&v=4" width="150" alt="avatar" style="border-radius:50%;"/>
   </div>
   <br/><br/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Full+stack+%7C+AI+Automation+%7C+ML+Engineer+;Reverse+Engineering+%7C+Ticketmaster+%7C+AIO+%7C+Discord+Bot)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Full+stack%20developer;Automation%20Engineer;Machine%20Learning%20enthusiast;Always%20learning%20new%20things;Let%27s%20build%20something%20cool!)](https://git.io/typing-svg)
   <br/><br/>
   <!-- Main description -->
   <h2>👋 About Me</h2>
 
   <p>
-    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>Chrome extensions</strong>, and <strong>casino/game backend systems</strong>.</p>
+    <strong>Full-Stack Developer</strong> & <strong>Automation Engineer</strong> specializing in <strong>AI-powered tools</strong>, <strong>web scraping</strong>, </p> <p><strong>bot development</strong>, <strong>API integration</strong>, and scalable backend solutions.</p>
   
 
   <p>
@@ -21,7 +21,7 @@
 
   <br/>
   <!-- Tech stack icons -->
- <h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technologies ⚙️</h2>
+ <h2 align="left"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>My Favorite Tools And Technology</h2>
  
 <br/>
 
@@ -158,3 +158,4 @@
 <br>
 
 <p align="center"><img src="./github-contribution-grid-snake.svg"></p>
+
