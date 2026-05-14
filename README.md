@@ -1,7 +1,7 @@
 <div align="center">
   
  <div align="center" style="border-radius:100%;overflow: hidden;">
-    <img src="https://avatars.githubusercontent.com/u/282673524?s=400&u=b762aadca12a90e0cc3ac4f1f6e819166cb02db1&v=4" style="width:150px; border-radius:50%;" alt="avatar"/>
+    <img src="https://avatars.githubusercontent.com/u/282673524?s=400&u=b762aadca12a90e0cc3ac4f1f6e819166cb02db1&v=4" style="width:150px; border-radius:100%;" alt="avatar"/>
   </div>
   <br/><br/>
   
