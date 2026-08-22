@@ -1,6 +1,6 @@
 <div align="center">
   
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=九条 春" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=160&section=header&text=&fontsize=0" />
  <br/>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=19E9EEEE&background=20FF3400&center=true&vCenter=true&width=710&lines=Full+stack%20developer;Automation%20Engineer;Machine%20Learning%20enthusiast;Always%20learning%20new%20things;Let%27s%20build%20something%20cool!)](https://git.io/typing-svg)
